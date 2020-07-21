@@ -21,7 +21,7 @@ Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusiv
 
 ![wikistuff](https://i.imgur.com/xLef2pF.png)
 
-### Algunas Definiciones de los filtros de bisqueda:
+### Algunas Definiciones de los filtros de busqueda:
 
 | Nombre | Que tipo de contenido és |
 | ------ | ------ |
