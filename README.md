@@ -12,6 +12,10 @@ Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusiv
 - Contenido de PS4 (Nuevos juegos 6.72 / Backports 5.05 / PSN fpkg / PSX fpkg / PS2 fpkg / PS4 fpkg / Hombrew /)
 - Contenido de PS3 (PS3 PSN / PS3 cfw2ofw / PS3 Carpeta / PS2 PSN / PSP PSN / Temas PSN / Avatares PSN / Hombrew / Licencias /)
 - Contenido de Switch (en construcción)
+- Contenido Wii/Wii U (en construcción)
+- Contenido PS VITA (en construcción)
+- Contenido PSP (en construcción)
+- Contenido 2DS/3DS (en construcción)
 
 ![wikistuff](https://i.imgur.com/nJMm5ke.png)
 
