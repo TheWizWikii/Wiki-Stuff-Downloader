@@ -1,5 +1,5 @@
 # Wiki-Stuff-Downloader
-Herramienta de PC para descargar contenido de varios sistemas desde un servidor privado de pago
+Herramienta de PC para descargar contenido de varios sistemas desde un servidor privado
 ---
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
 
