@@ -26,8 +26,8 @@ Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusiv
 | Nombre | Que tipo de contenido és |
 | ------ | ------ |
 | PS4 fpkg | Són juegos de PS4 originales en formato físico que han sido dumpeados y convertidos a fake pkg |
-| PS2 fpkg | Són juegos de PS2 ISO convertidos con alguna herramienta como PS4 PS2Classics a Fake pkg |
-| PSX fpkg | Són juegos de PSX convertidos con alguna herramienta a Fake pkg |
+| PS2 fpkg | Són juegos de PS2 ISO convertidos con alguna herramienta a Fake pkg para PS4 |
+| PSX fpkg | Són juegos de PSX convertidos con alguna herramienta a Fake pkg para PS4 |
 
 ---
 
