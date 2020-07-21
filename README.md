@@ -26,6 +26,13 @@ Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusiv
 És una herramienta muy intuitiva y no hace falta un tutorial para poder usarla, simplemente desplázate por ella en la seccón que estés buscando contenido y descarga sin publicidad.
 
 ---
+
+### ⏳ A tener en cuenta tiempos de descarga con archivos super pesados ⏳
+
+La app tiene enlaces muy pesados en la sección de PS4, links de un solo PKG de 40 GB o más. Si tienes una conexión a internet lenta puede que no lleges a descargarlo todo de una tirada, ya sea por que no tienes el tiempo suficiente en ese momento o otra. Personalmente yo descargo unos 40 GB en 2/3 Horas con esta app. Puede que más adelante se haga por partes o por lo menos en los links mas pesados.
+
+---
+
 ### Credits:
 
 - **#TheDarkProgarmmer** (utilizadas algunas cosas de su repositorio) https://github.com/xXxTheDarkprogramerxXx/psnstuff
