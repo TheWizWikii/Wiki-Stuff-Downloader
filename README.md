@@ -23,7 +23,7 @@ Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusiv
 
 ### Como se usa:
 
-És una herramienta muy intuitiva y no hace falta un tutorial para poder usarla, simplemente desplázate por ella en la seccón que quieras o estés buscando seleciona contenido y descarga sin publicidad.
+És una herramienta muy intuitiva y no hace falta un tutorial para poder usarla, simplemente desplázate por ella en la seccón que estés buscando contenido y descarga sin publicidad.
 
 ---
 ### Credits:
