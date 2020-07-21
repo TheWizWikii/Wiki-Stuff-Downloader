@@ -1,5 +1,5 @@
 # Wiki-Stuff-Downloader
-Herramienta para descargar contenido 
+Herramienta para descargar contenido de varios sistemas 
 ---
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
 
