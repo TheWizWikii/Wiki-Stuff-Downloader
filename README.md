@@ -7,7 +7,7 @@ Herramienta de PC para descargar contenido de varios sistemas
 
 Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusivo nunca jamás visto en una aplicación donde podras descargar contenido variado para diferentes sistemas. Esta completamente estructurada con filtros de busqueda para que sea muy fácil encontrar lo que andés buscando. Ordenada por Title ID, Nombre, Region, Tipo, FW minimo, Version del juego, Lenguajes, Content ID, Uploader y Peso del archivo.
 
-### Que puedes descargar:
+### Que puedes encontrar para descargar:
 
 - Contenido de PS4 (Nuevos juegos 6.72 / Backports 5.05 / PSN fpkg / PSX fpkg / PS2 fpkg / PS4 fpkg / Hombrew /)
 - Contenido de PS3 (PS3 PSN / PS3 cfw2ofw / PS3 Carpeta / PS2 PSN / PSP PSN / Temas PSN / Avatares PSN / Hombrew / Licencias /)
