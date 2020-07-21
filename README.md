@@ -21,6 +21,16 @@ Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusiv
 
 ![wikistuff](https://i.imgur.com/xLef2pF.png)
 
+### Algunas Definiciones:
+
+| Nombre | Que tipo de contenido és |
+| ------ | ------ |
+| PS4 fpkg | Són juegos de PS4 originales en formato físico que han sido dumpeados y convertidos a fake pkg |
+| PS2 fpkg | Són juegos de PS2 ISO convertidos con alguna herramienta como PS4 PS2Classics a Fake pkg |
+| PSX fpkg | Són juegos de PSX convertidos con alguna herramienta a Fake pkg |
+
+---
+
 ### Como se usa:
 
 És una herramienta muy intuitiva y no hace falta un tutorial para poder usarla, simplemente desplázate por ella en la seccón que estés buscando contenido y descarga sin publicidad.
