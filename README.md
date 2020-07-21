@@ -5,7 +5,7 @@ Herramienta para descargar contenido de varios sistemas
 
 ### Que és:
 
-Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusivo nunca jamás visto en una aplicación donde podras descargar contenido variado para diferentes sistemas. Esta completamente estructurada con filtros de busqueda para que sea muy fácil encontrar lo que andés buscando. Ordenada por Title ID, Region, Tipo, FW minimo, Version del juego, Lenguajes, Content ID, Uploader y Peso del archivo.
+Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusivo nunca jamás visto en una aplicación donde podras descargar contenido variado para diferentes sistemas. Esta completamente estructurada con filtros de busqueda para que sea muy fácil encontrar lo que andés buscando. Ordenada por Title ID, Nombre, Region, Tipo, FW minimo, Version del juego, Lenguajes, Content ID, Uploader y Peso del archivo.
 
 ### Que puedes descargar:
 
