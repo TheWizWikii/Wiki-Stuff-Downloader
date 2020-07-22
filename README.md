@@ -13,7 +13,6 @@ Podriamos decir que és el nuevo PSNstuff pero con mucho más contenido exclusiv
 - Contenido de PS3 (PS3 PSN / PS3 DLC PSN / PS3 cfw2ofw / PS3 Carpeta / PS2 PSN / PSP PSN / Temas PSN / Avatares PSN / Hombrew / Licencias / Updates)
 - Contenido de Switch (en construcción)
 - Contenido Wii/Wii U (en construcción)
-- Contenido PS VITA (en construcción)
 - Contenido PSP (en construcción)
 - Contenido 2DS/3DS (en construcción)
 
