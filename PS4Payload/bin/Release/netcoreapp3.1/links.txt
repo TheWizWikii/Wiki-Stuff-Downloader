@@ -1,0 +1,4 @@
+ARCH;arch linux.iso;SO;La Tierra;https://mega.nz/file/11dXUaiB#XPUylmRrNnfPPV-ZO6VqqsXvimsDpZ_lVWLKwIUNh9Q;Pesado;arch;Cualquiera;ordenador;1.0.0.0
+IMG;6.jpg;Imatge;La Luna;http://makeupjoana.com/img/img/80.jpg;No tan grande;foto;sin idioma;dispositivo;1.0.2.1
+DEBIAN;Wikistore.pkg;SO;Mercurio;https://github.com/TheWizWikii/WIKISTORE-PSN-EDITION/releases/download/1.0.5/WIKISTORE_HEN_EDITION_1.0.5.pkg;Pesado;content3;inglix;ordenador;10 (buster)
+TITLEid;Mario 64;Juego;EUR;https://download2388.mediafire.com/ekq0ot0wcezg/8iqovfinqfkefkp/Danimal+Master+Pack+%28v5.4%29.zip;1.05 GB;;;;;
